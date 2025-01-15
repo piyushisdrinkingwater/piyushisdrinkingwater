@@ -1,13 +1,5 @@
-### Hi there 👋
-
-<!--
-**piyushisdrinkingwater/piyushisdrinkingwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Tensorflow,YOLO
-- 👯 I’m looking to collaborate on:AI-ML projects to do with real world problems 
-- 🤔 I’m looking for help with: Machine Learning 
+- 🌱 Tensorflow, Pytorch,YOLO
+- 📖 Deep learning, CNN, Machine Learning
 - 📫 How to reach me: dev.piyush195@gmail.com
 
 # Hi, I'm Piyush Banarjee 
